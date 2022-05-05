@@ -2,12 +2,14 @@ import os
 from instance.config import NEWS_API_KEY,SECRET_KEY
 
 class Config:
+    
     '''
     General configuration parent class
     '''
+    
     ARTICLES_BASE_URL = 'https://newsapi.org/v2/top-headlines?country=us&apiKey={}'
     SOURCES_BASE_URL = 'https://newsapi.org/v2/top-headlines/sources?apiKey={}'
-    # NEWS_ARTICLES_SOURCE_URL = 'https://newsapi.org/v2/top-headlines/sources={}&apiKey={}'
+   
 
 
 
