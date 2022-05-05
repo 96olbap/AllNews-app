@@ -7,6 +7,7 @@ class ArticleTest(unittest.TestCase):
     '''
     Test Class to test the behaviour of the Article class
     '''
+    
     def setUp(self):
         '''
         Set up method that will run before every test
@@ -15,6 +16,7 @@ class ArticleTest(unittest.TestCase):
 
     def test_instance(self):
         self.assertTrue(isinstance(self.new_article, Articles))
+
 
 if __name__ == '__main__':
     unittest.main()
