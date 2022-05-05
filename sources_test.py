@@ -2,11 +2,12 @@ import unittest
 from app import models
 
 Sources = models.Sources
-
 class SourceTest(unittest.TestCase):
+    
     '''
     Test Class to test the behaviour of the Sources class
     '''
+    
     def setUp(self):
         '''
         Set up method that will run before every test
