@@ -5,6 +5,7 @@ This project was generated with [Flask framework] version 1.1.4 and deployed to 
 ## Screenshot
 ![Website](/scrn_shot.png)
 ---
+---
 ## BDD
 #### Context
    Given User previews the app\
