@@ -24,7 +24,7 @@ This project was generated with [Flask framework] version 1.1.4
 
 * [x] Python
 * * [x] Flask
-
+* [x] Heroku
 
 ---
 
