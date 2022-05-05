@@ -1,6 +1,6 @@
 # AllNews-app using News Api
 
-This project was generated with [Flask framework] version 1.1.4
+This project was generated with [Flask framework] version 1.1.4 and deployed to Heroku
 
 ## Screenshot
 ![Website](/scrn_shot.png)
