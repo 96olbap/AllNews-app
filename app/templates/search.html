@@ -1,0 +1,19 @@
+{% extends 'base.html' %} {% block content %}
+<div class="container">
+
+    <div class="row">
+
+        <h3> Found {{ sources| count }} matches </h3>
+        <hr>
+        <ul>
+            {% for news_source in sources %}
+            <div class="news_source">
+                <a class="news_source_link form-control" href="{{news_source.url}}"> {{news_source.name}} </a>
+            </div>
+            {% endfor %}
+        </ul>
+
+    </div>
+
+</div>
+{% endblock %}
