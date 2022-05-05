@@ -14,6 +14,7 @@ This project was generated with [Flask framework] version 1.1.4
 #### Outcomes
   The user should view a collection of news articles from the selected source of view more details on the selected article in the official news site.
 
+--
 * [x] Can pick among various news sources or news articles.
 * [x] Is able to view a collection of top-headlines.
 * [x] Can access the official site of the news source.
@@ -23,6 +24,7 @@ This project was generated with [Flask framework] version 1.1.4
 
 * [x] Python
 * * [x] Flask
+
 
 ---
 
@@ -45,7 +47,7 @@ ___
 ## Author 
 I'm Wanjala and i love to code. Connect With me:
 
-- 💻 Project Website - [Github Search App](https://github.com/96olbap/AllNews-app)
+- 💻 Project Website - [Github Search App](https://allnews-app.herokuapp.com)
 - 🎱 Github - [@96olbap](https://github.com/96olbap)
 
 ---
